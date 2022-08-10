@@ -8,3 +8,4 @@ RESOLUSYEN
 > Belajar Figma
 > Belajar Trello
 > Belajar Slack
+> Belajar CodeIgniter
