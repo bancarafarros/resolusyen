@@ -1,4 +1,10 @@
 RESOLUSYEN
-> rhehh
-> srgrg
-> sewrgerh
+> Belajar GIT x GitHub
+> Bikin porto UI/UX
+> Bikin porto frontend
+> Belajar MySQL
+> Belajar React
+> Belajar Laravel
+> Belajar Figma
+> Belajar Trello
+> Belajar Slack
