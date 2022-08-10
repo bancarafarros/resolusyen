@@ -1,3 +1,5 @@
 > Belajar GoLang
 > Belajar Photoshop
+  - Masking
+  - Remove object
 > Belajar Illustrator
